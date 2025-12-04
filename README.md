@@ -1,0 +1,1 @@
+# app_flutter1_text_analyzer
